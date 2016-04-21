@@ -1,0 +1,12 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-04-21 23:03:32 +0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/jingwei/.rvm/gems/ruby-2.2.1@rails426/gems/railties-4.2.6/lib/rails/templates/rails/welcome/index.html.erb (23.6ms)
+Completed 200 OK in 103ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2016-04-21 23:03:35 +0800
+Processing by Rails::InfoController#properties as */*
+  Rendered /home/jingwei/.rvm/gems/ruby-2.2.1@rails426/gems/railties-4.2.6/lib/rails/templates/rails/info/properties.html.erb (0.5ms)
+Completed 200 OK in 66ms (Views: 11.0ms | ActiveRecord: 1.9ms)
